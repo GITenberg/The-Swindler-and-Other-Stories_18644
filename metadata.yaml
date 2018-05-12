@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3564
     wikipedia: http://en.wikipedia.org/wiki/Ethel_M._Dell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18644#The-Swindler-and-Other-Stories
 gutenberg_issued: '2006-06-21'
 gutenberg_type: Text
 identifiers:
